@@ -1,0 +1,607 @@
+{
+    "Email": "البريد الالكتروني",
+    "Sign In": "تسجيل الدخول",
+    "Welcome": "مرحباََ",
+    "please enter the code sent to": "يرجى إدخال الرمز المرسل لـ",
+    "Register": "تسجيل",
+    "Send" : "إرسال",
+    "Logout" : "تسجيل الخروج",
+    "home #$ Home" : "الرئيسية",
+    "product #$ Product" : "المنتج",
+    "category #$ Category" : "الفئة",
+    "About Us" : "من نحن",
+    "You must agree to the terms and conditions" : "يجب الموافقة على الشروط والأحكام",
+    "By booking you agree to the " : "بالحجز فإنك توافق على ",
+    "empty_otp_required #$ OTP is required" : "الرمز المرسل مطلوب",
+    "passValidation #$ Password must be at least 8 characters long" : "كلمة المرور يجب ان تكون على الاقل 8 احرف",
+    "passRequiredValidation #$ Password is required" : "كلمة المرور مطلوبة",
+    "mailValidation #$ Email is not valid" : "البريد الالكتروني غير صحيح",
+    "phoneValidation #$ Phone is not valid" : "رقم الهاتف غير صحيح",
+    "confirmValidation #$ Passwords do not match" : "كلمتا المرور غير متطابقتان",
+    "fillField #$ This field is required" : "هذا الحقل مطلوب",
+    "operationFaild #$ Operation failed" : "فشلت العملية",
+    "progressFaild #$ Progress failed" : "فشل التقدم",
+    "Camera Permission Required" : "مطلوب إذن الكاميرا",
+    "You have permanently denied camera access Please open settings to enable it" : "لقد قمت برفض الوصول إلى الكاميرا بشكل دائم. يرجى فتح الإعدادات لتمكينه.",
+    "intenetWeakness #$ Weak internet connection" : "ضعف الاتصال بالانترنت",
+    "Location Permission Required" : "مطلوب إذن الموقع",
+    "You have permanently denied location access Please open settings to enable it" : "لقد قمت برفض الوصول إلى الموقع بشكل دائم. يرجى فتح الإعدادات لتمكينه.",
+    "Open Settings" : "فتح الإعدادات",
+    "Current Location" : "الموقع الحالي",
+    "serverError #$ Server error" : "خطأ في الخادم",
+    "checkInternet #$ Check your internet connection" : "تحقق من اتصالك بالانترنت",
+    "errorExeptionNoconnection #$ There is No Connection with internet" : "لا يوجد اتصال بالانترنت",
+    "errorExeption_NointernetDesc #$ Please check your internet connection" : "يرجى التحقق من اتصالك بالانترنت",
+    "errorException_NotContain #$ No data found" : "لا توجد بيانات",
+    "errorException_NotContainDesc #$ No data found" : "لا توجد بيانات",
+    "visitorText #$ Visitor" : "زائر",
+    "exceptionError #$ Something went wrong" : "حدث خطأ ما",
+    "excpetionErrorDesc #$ Something went wrong" : "حدث خطأ ما",
+    "PhotoLibrary #$ Photo Library" : "مكتبة الصور",
+    "Camera #$ Camera" : "الكاميرا",
+    "bad_request #$ Bad Request try again" : "طلب خاطيء حاول مرة اخرى",
+    "unauthorized #$ Unauthorized" : "غير مصرح",
+    "notFound #$ Not Found" : "غير موجود",
+    "continueAsA #$ Continue as a" : "المتابعة ك",
+    "visitor #$ Visitor" : "زائر",
+    "Search": "بحث",
+    "No Data Found": "لا يوجد بيانات موجودة",
+    "Start now": "ابدأ الان",
+    "Phone Number": "رقم الجوال",
+    "Enter your phone number": "ادخل رقم جوالك",
+    "Full name should be three at least": "يجب أن يكون الاسم الكامل ثلاثة على الأقل",
+    "Cannot select attachments except pdf": "لا يمكن تحديد مرفقات غير pdf",
+    "Do you have Tax number": "هل يوجد لديك رقم ضريبي؟",
+    "Did not get Verification Code?": "لم تتلقى كود التحقق؟",
+    "Resend Code": "إعادة الإرسال",
+    "Change Password" : "تغيير كلمة المرور",
+    "Current Password" : "كلمة المرور الحالية",
+    "Confirm New Password" : "تأكيد كلمة المرور الجديدة",
+    "Please enter your current password" : "من فضلك ادخل كلمة المرور الحالية",
+    "Please enter the new password" : "برجاء إدخال كلمة المرور الجديدة",
+    "Please enter the confirm password" : "من فضلك ادخل تأكيد كلمة المرور",
+    "Change Phone" : "تغيير رقم الجوال",
+    "Change Email" : "تغيير البريد الالكتروني",
+    "New Email" : "البريد الالكتروني الجديد",
+    "Please enter your new email" : "من فضلك ادخل البريد الالكتروني الجديد",
+    "Verify email ownership" : "التحقق من ملكية البريد الالكتروني",
+    "Are you sure you want to delete account" : "هل أنت متأكد أنك تريد حذف حسابك؟",
+    "Please enter the verification code sent to your email" : "من فضلك ادخل رمز التحقق المرسل لبريدك الالكتروني",
+    "Current Phone" : "رقم الجوال الحالي",
+    "New Phone" : "رقم الجوال الجديد",
+    "Password": "كلمة المرور",
+    "Select Language": "اختيار اللغة",
+    "Please enter your phone number": "الرجاء ادخال رقم الجوال",
+    "Please enter your password": "الرجاء ادخال كلمة المرور",
+    "Verify": "التحقق",
+    "Phone Number Verification": "التحقق من رقم الهاتف",
+    "Please enter the verification code sent to your mobile phone": "من فضلك قم بإدخال رمز التحقق المرسل لجوالك",
+    "Request active code": "طلب رمز التحقق",
+    "Terms And Conditions for Users": "اتفاقية الشروط والأحكام الخاصة بالمستخدمين",
+    "Remaining time": "الوقت المتبقي",
+    "Forgot Password?": "نسيت كلمة المرور؟",
+    "New Password": "كلمة المرور الجديدة",
+    "Confirm Password": "تأكيد كلمة المرور",
+    "Do not have an account": "ليس لديك حساب؟",
+    "Create Account" : "انشاء حساب",
+    "Send Code" : "ارسال الرمز",
+    "Welcome Back" : "مرحبا بعودتك",
+    "Your Phone Number" : "رقم الجوال",
+    "By registering you agree to the" : "بالتسجيل فإنك توافق على",
+    "Terms Of Service" : "الأحكام والشروط",
+    "Trip Details" : "تفاصيل الرحلة",
+    "Details" : "التفاصيل",
+    "Description" : "الوصف",
+    "Available" : "متاح",
+    "Duration" : "المدة",
+    "Price" : "السعر",
+    "Trip Program" : "برنامج الرحلة",
+    "Rules" : "القوانين",
+    "Prohibitions" : "الممنوعات",
+    "Book Now" : "احجز الان",
+    "OR Continue With" : "او استمرار مع",
+    "Sign Up With Google" : "تسجيل الدخول باستخدام جوجل",
+    "Sign Up With Apple" : "تسجيل الدخول باستخدام آبل",
+    "Booking" : "الحجز",
+    "Date and Time" : "التاريخ والوقت",
+    "Select Another Date" : "اختر تاريخ اخر",
+    "Select Number Of People" : "اختر عدد الاشخاص",
+    "Available Additions" : "الاضافات المتاحة",
+    "Adults" : "الكبار",
+    "From 10 to 90" : "من 10 الى 90",
+    "Less Than 10" : "اقل من 10",
+    "Less Than 2 Years" : "اقل من سنتين",
+    "Kids" : "الاطفال 10",
+    "Babies" : "الرضع",
+    "Glasses" : "نظارات",
+    "Scarf" : "شال",
+    "Diving goggles" : "نظارات الغوص",
+    "Diving fins" : "زعانف الغوص",
+    "Add Nationality" : "اضف الجنسية",
+    "Add No of people" : "اضف عدد الاشخاص",
+    "Add Another Nationality" : "اضف جنسية اخرى",
+    "Submit Order" : "ارسال الطلب",
+    "Done" : "تم",
+    "Order Details" : "تفاصيل الطلب",
+    "People" : "الاشخاص",
+    "Additions" : "الاضافات",
+    "Total Price Including Tax" : "السعر الاجمالي شامل الضريبة",
+    "Total Price Excluding Tax" : "السعر الاجمالي غير شامل الضريبة",
+    "Quad Bike" : "دراجة رباعية",
+    "Tax" : "الضريبة",
+    "Promocode" : "بروموكود",
+    "Enter Promocode" : "ادخل البروموكود",
+    "Confirm": "تأكيد",
+    "Date" : "التاريخ",
+    "Time" : "الوقت",
+    "Add Your Information" : "اضف معلوماتك",
+    "Account Holder Data" : "بيانات صاحب الحساب",
+    "Full Name" : "الاسم كامل",
+    "National ID" : "الرقم القومي",
+    "Date of birth" : "تاريخ الميلاد",
+    "Location" : "الموقع",
+    "See All" : "عرض الكل",
+    "Popular Trips" : "الرحلات الشعبية",
+    "Top Rated" : "الرحلات المفضلة",
+    "Destination List" : "قائمة الوجهات",
+    "Explore The Beautiful Places Around World" : "استكشف الاماكن الجميلة المحيطة بك",
+    "Feel Real Adventure and Very Close To Nature" : "استمتع بمغامرة حقيقية وكن قريباً من الطبيعة",
+    "Available Soon" : "متاح قريباً",
+    "Company Details" : "تفاصيل الشركة",
+    "About Company" : "عن الشركة",
+    "Reviews" : "التقييمات",
+    "Company Trips" : "رحلات الشركة",
+    "View" : "عرض",
+    "Address" : "العنوان",
+    "Directions" : "الاتجاهات",
+    "People Details" : "تفاصيل الاشخاص",
+    "Name" : "الاسم",
+    "Nationality" : "الجنسية",
+    "Total Tax" : "الضريبة الاجمالية",
+    "Rate The Trip" : "تقييم الرحلة",
+    "Scan For Attendance" : "مسح للحضور",
+    "Rate The Company" : "تقييم الشركة",
+    "Say Something" : "قل شيئا",
+    "Reservation" : "الحجز",
+    "Company Review" : "تقييم الشركة",
+    "Explore" : "استكشف",
+    "Latest Trips" : "الرحلات الاخيرة",
+    "Recent Posts" : "المنشورات الاخيرة",
+    "Filter Results" : "نتائج البحث",
+    "Trip Filter" : "تصفية الرحلات",
+    "Choose Country" : "اختر الدولة",
+    "Choose City" : "اختر المدينة",
+    "Country" : "الدولة",
+    "City" : "المدينة",
+    "Filter By Price" : "تصفية بالسعر",
+    "Lowest Price" : "السعر الاقل",
+    "Highest Price" : "السعر الاعلى",
+    "filterByRate": "Filter by Rate",
+    "highestRate": "Highest Rate",
+    "lowestRate": "Lowest Rate",
+    "See Results" : "عرض النتائج",
+    "Account" : "الحساب",
+    "Favorite" : "المفضلة",
+    "My Wallet" : "محفظتي",
+    "Contact Us" : "اتصل بنا",
+    "Who Are We" : "من نحن",
+    "Settings" : "الاعدادات",
+    "Your Current Balance" : "رصيدك الحالي",
+    "Recharge Wallet" : "شحن المحفظة",
+    "Wallet Date" : "تاريخ المحفظة",
+    "Amount" : "المبلغ",
+    "Type" : "النوع",
+    "No Record Available" : "لا يوجد سجل متاح",
+    "How can we help you?" : "كيف يمكننا مساعدتك؟",
+    "Our Services" : "خدماتنا",
+    "Discover New World With Us Romway" : "اكتشف عالم جديد معنا Romway",
+    "My Reservations" : "حجوزاتي",
+    "Pending" : "قيد المراجعة",
+    "Accepted" : "مقبولة",
+    "Rejected" : "مرفوضة",
+    "See Program" : "عرض البرنامج",
+    "Language" : "اللغة",
+    "Currency" : "العملة",
+    "Delete My Account" : "حذف الحساب",
+    "Do you want to delete your account?" : "هل تريد حذف حسابك؟",
+    "App Language" : "لغة التطبيق",
+    "Skip" : "تخطي",
+    "Next" : "التالي",
+    "Comparing" : "المقارنة",
+    "Trip Name" : "اسم الرحلة",
+    "Add Cover Photo" : "اضف صورة الغلاف",
+    "Add Profile Photo" : "اضف صورة شخصية",
+    "Country Code" : "رمز الدولة",
+    "Select Your Nationality" : "اختر جنسيتك",
+    "change_profile_note #$ In case of changing the phone number you will log out and send the activation code to the new number" : "في حالة تغيير رقم الهاتف، سيتم تسجيل الخروج وإرسال رمز التحقق إلى الرقم الجديد",
+    "Cancel" : "الغاء",
+    "Compare" : "المقارنة",
+    "posts" : "المنشورات",
+    "Dark Mode" : "الوضع الليلي",
+    "Join Us As A Tour Operator" : "انضم إلينا كمقدم رحلات سياحية",
+    "Company Name" : "اسم الشركة",
+    "Enter Company Name" : "أدخل اسم الشركة",
+    "Enter your email" : "أدخل بريدك الالكتروني",
+    "Enter Email (optional)" : "أدخل البريد الالكتروني (إختياري)",
+    "Upload your logo" : "اللوجو الخاص بك",
+    "Your Commercial Registration" : "سجلك التجاري",
+    "In Case Of An Inquiry" : "في حالة الاستفسار",
+    "Incoming" : "جديد",
+    "Accept" : "قبول",
+    "Reject" : "رفض",
+    "From" : "من",
+    "To" : "الى",
+    "Cash" : "نقدا",
+    "Select start date" : "اختر تاريخ البدء",
+    "Select end date" : "اختر تاريخ الانتهاء",
+    "Start date" : "تاريخ البدء",
+    "End date" : "تاريخ الانتهاء",
+    "Filter by date" : "تصفية بالتاريخ",
+    "Filter by trip" : "تصفية بالرحلة",
+    "Apply" : "تطبيق",
+    "Trip Number" : "رقم الرحلة",
+    "Payment Method" : "طريقة الدفع",
+    "All Images" : "جميع الصور",
+    "Ratings" : "التقييمات",
+    "All Trips" : "جميع الرحلات",
+    "Packages" : "الباقات",
+    "My Account" : "حسابي",
+    "Company Profile" : "الشركة",
+    "Add New Package" : "اضف باقة جديدة",
+    "Package Name" : "اسم الباقة",
+    "Price Without Discount" : "السعر بدون الخصم",
+    "Add Package Name": "اسم الباقة",
+    "Add Price Without Discount": "السعر بدون الخصم", 
+    "Add Price": "السعر",
+    "Add Description": "الوصف",
+    "Add Package": "اضف الباقة",
+    "More" : "المزيد",
+    "Add To Package" : "اضف الرحلة الى الباقة",
+    "Select Trip" : "اختر الرحلة",
+    "available_date_time #$ Available Date and Time" : "التاريخ والوقت المتاح",
+    "Total Orders" : "اجمالي الطلبات",
+    "Today" : "اليوم",
+    "Order" : "الطلب",
+    "Booked" : "تم الحجز",
+    "Times" : "مرات",
+    "Reservation Accepted Successfully" : "تم قبول الحجز بنجاح",
+    "Locale your company" : "موقع شركتك",
+    "Select images for your company" : "اختر صور لشركتك",
+    "Write a bio for your company" : "أدخل نبذة عن الشركة (إختياري)",
+    "Join Us" : "انضم الينا",
+    "Please enter the following data" : "من فضلك ادخل البيانات التالية",
+    "Remember me" : "تذكرني",
+    "Please enter the following data to reset" : "من فضلك ادخل البيانات التالية لاعادة التعيين",
+    "Verification Code" : "كود التحقق",
+    "Please enter the verification code sent to your phone" : "برجاء إدخال الكود المرسل علي جوالك",
+    "Resend in" : "اعادة الارسال في",
+    "Your password has been reset" : "تم اعادة تعيين كلمة المرور",
+    "You can now log in again" : "يمكنك الان تسجيل الدخول مرة اخرى",
+    "Wallet" : "المحفظة",
+    "My Trips" : "رحلاتي",
+    "Search about trips orders" : "ابحث عن طلبات الرحلات",
+    "Reservation Rejected Successfully" : "تم رفض الحجز بنجاح",
+    "Due Amount" : "المستحق",
+    "Settlement Requests" : "طلبات التسوية",
+    "RS" : "ر.س",
+    "Trip Amount" : "مبلغ الرحلة",
+    "Administration Fee" : "عمولة الإدارة",
+    "Total" : "الاجمالي",
+    "Trip Classification" : "تصنيف الرحلة",
+    "Select Trip Classification" : "اختر تصنيف الرحلة",
+    "Hour" : "ساعة",
+    "Hours" : "ساعات",
+    "Minutes" : "دقائق",
+    "Minute" : "دقيقة",
+    "Trip Duration" : "مدة الرحلة",
+    "Net Profit" : "صافي الربح",
+    "Trips Amount" : "قيمة الرحلات",
+    "Done Settlement" : "تم التسوية",
+    "Not Done Settlement" : "لم يتم التسوية",
+    "Choose Payment Method" : "اختر طريقة الدفع",
+    "Choose Start Date" : "حدد تاريخ البداية",
+    "Choose End Date" : "حدد تاريخ النهاية",
+    "Filter Search" : "فلتر البحث",
+    "Trips Statistics" : "إحصائيات الرحلات",
+    "month" : "شهر",
+    "week" : "أسبوع",
+    "day" : "يوم",
+    "selectMonth" : "اختر الشهر",
+    "totalTrips" : "إجمالي الرحلات",
+    "completedTrips" : "الرحلات المكتملة",
+    "cancelledTrips" : "الرحلات الملغاة",
+    "transferImage" : "صورة الحوالة",
+    "Active" : "مفعلة",
+    "Disabled" : "معطلة",
+    "Under Review" : "قيد المراجعة",
+    "Main Category" : "التصنيف الرئيسي",
+    "Sub Category" : "التصنيف الفرعي",
+    "Region" : "المنطقة",
+    "Trip Info" : "معلومات الرحلة",
+    "Trip Price" : "سعر الرحلة",
+    "SAR" : "ر.س",
+    "Hours count" : "عدد الساعات",
+    "Value" : "القيمة",
+    "Enter Trip Price" : "ادخل سعر الرحلة",
+    "Base Price" : "السعر الاساسي",
+    "Hours Offer" : "عروض الساعات",
+    "Enter the trip cancellation period" : "ادخل مدة سماحية إلغاء الرحلة",
+    "Category Features" : "خصائص التصنيف",
+    "Passengers Count" : "عدد الركاب",
+    "Bedrooms Count" : "عدد غرف النوم",
+    "Bathrooms Count" : "عدد الحمامات",
+    "Halls Count" : "عدد الصالات",
+    "Trip Rules" : "قواعد الرحلة",
+    "Please Choose Trip Rules" : "برجاء اختيار قواعد الرحلة",
+    "Trip Prohibited" : "محظورات الرحلة",
+    "Please Choose Trip Prohibited" : "برجاء اختيار محظورات الرحلة",
+    "Trip Additions" : "اضافات الرحلة",
+    "Add Trip" : "اضافة رحلة",
+    "Choose Region" : "اختر المنطقة",
+    "Please enter country" : "برجاء ادخل الدولة",
+    "Please enter city" : "برجاء ادخل المدينة",
+    "Please enter region" : "برجاء ادخل المنطقة",
+    "Trip Location" : "موقع الرحلة",
+    "Trip Description" : "وصف الرحلة",
+    "Choose Trip Location" : "حدد موقع الرحلة",
+    "Trip prohibitions" : "محظورات الرحلة",
+    "Enter Trip Prohibitions" : "ادخل محظورات الرحلة",
+    "Upload Images" : "إرفاق صور",
+    "Trip Images" : "صور الرحلة",
+    "Please Select Images" : "من فضلك اختر الصور",
+    "Ship Properties" : "خصائص السفينة",
+    "Trip Properties" : "خصائص الرحلة",
+    "Select Facilities" : "اختر المرافق",
+    "Add Duration" : "اضافة فترة زمنية",
+    "Trip facilities" : "مرافق الرحلة",
+    "Currency used" : "العملة المستخدمة",
+    "Choose facilities" : "اختر المرافق",
+    "Choose Properties" : "اختر الخصائص",
+    "Choose Category" : "اختر التصنيف",
+    "Choose Sub Category" : "اختر التصنيف الفرعي",
+    "Choose Currency" : "اختر العملة",
+    "Delivery Service" : "خدمة التوصيل",
+    "Delivery Service Price" : "سعر خدمة التوصيل",
+    "Enter Count Here" : "ادخل العدد هنا",
+    "Add another Property" : "اضف خاصية اخرى",
+    "Add another facility" : "اضف مرفق اخر",
+    "Add another addition" : "اضف اضافة اخرى",
+    "Yes" : "نعم",
+    "No" : "لا",
+    "Delivery Option" : "خيار التوصيل",
+    "Inactive" : "غير مفعلة",
+    "Value Added Tax" : "ضريبة القيمة المضافة",
+    "Trip Type" : "نوع الرحلة",
+    "Enable Tax" : "تفعيل ضريبة القيمة المضافة",
+    "Hours Show" : "عروض الساعات",
+    "Cancellation Conditions" : "شروط الإلغاء",
+    "Add another condition" : "اضف شرط اخر",
+    "Add another offer" : "اضف عرض اخر",
+    "Short Term" : "قصيرة المدى",
+    "Long Term" : "طويلة المدى",
+    "Medium Term" : "متوسطة المدى",
+    "Enter week days" : "حدد ايام الاسبوع",
+    "Saturday" : "السبت",
+    "Sunday" : "الأحد",
+    "Monday" : "الاثنين",
+    "Tuesday" : "الثلاثاء",
+    "Wednesday" : "الأربعاء",
+    "Thursday" : "الخميس",
+    "Friday" : "الجمعة",
+    "Time Period" : "الفترة الزمنية",
+    "Price category" : "الفئة السعرية",
+    "Normal" : "عادية",
+    "Both" : "الاثنين معًا",
+    "Adult Price" : "سعر البالغين",
+    "Child Price" : "سعر الاطفال",
+    "Baby Price" : "سعر الرضع",
+    "Enter Adult Price" : "ادخل سعر البالغين",
+    "Enter Child Price" : "ادخل سعر الاطفال",
+    "Enter Baby Price" : "ادخل سعر الرضع",
+    "Enter Vip Price" : "ادخل سعر VIP",
+    "Vip Price" : "السعر VIP",
+    "Price for adult #$Adult Price" : "السعر للبالغ",
+    "Price for child #$Child Price" : "السعر للطفل",
+    "Price for baby #$Baby Price" : "السعر للرضيع",
+    "Enter price here" : "ادخل السعر هنا",
+    "Save" : "حفظ",
+    "Enter Description" : "ادخل الوصف",
+    "Enter Country" : "ادخل الدولة",
+    "Enter Region" : "ادخل المنطقة",
+    "Enter City" : "ادخل المدينة",
+    "Count" : "العدد",
+    "Add Property" : "اضف خاصية",
+    "Classification Properties" : "خصائص التصنيف",
+    "Dates should be equal" : "يجب أن تكون التواريخ متساوية",
+    "Time Periods" : "الفترات الزمنية",
+    "Add Trip Activity" : "إضافة نشاط للرحلة",
+    "Enter trip name" : "ادخل اسم الرحلة",
+    "Enter activity name" : "ادخل اسم النشاط",
+    "Enter Activity description" : "وصف النشاط",
+    "Activity description" : "وصف النشاط",
+    "Enter trip description" : "ادخل وصف الرحلة",
+    "Activity start time" : "وقت بداية النشاط",
+    "Enter activity start time" : "ادخل وقت بداية النشاط",
+    "Add Another Activity" : "اضف نشاط اخر",
+    "theDay #$Day" : "اليوم",
+    "Profile" : "الملف الشخصي",
+    "My Rates" : "تقييماتي",
+    "My Orders" : "طلباتي",
+    "Employees" : "الموظفين",
+    "Important Information" : "معلومات تهمك",
+    "Complaints and Suggestions" : "الشكاوى والاقتراحات",
+    "Notifications" : "الإشعارات",
+    "Show Commercial Registration" : "عرض السجل التجارى",
+    "Edit Commercial Registration" : "تعديل السجل التجارى",
+    "Company Images" : "صور الشركة",
+    "Attach Image" : "إرفاق صورة",
+    "Edit Profile" : "تعديل الملف الشخصى",
+    "Gulf" : "خليجي",
+    "European" : "أوروبي",
+    "Egyptian" : "مصري",
+    "Please Fill All Prices" : "من فضلك ادخل جميع الاسعار",
+    "EGP" : "ج.م",
+    "USD" : "$",
+    "Please add one field at least" : "من فضلك ادخل حقل واحد على الاقل",
+    "Change Current Currency" : "تغيير العملة الحالية",
+    "Receive Orders" : "استقبال الطلبات",
+    "Edit" : "تعديل",
+    "Disable" : "تعطيل",
+    "Enable" : "تفعيل",
+    "Delete" : "حذف",
+    "Add Employee" : "اضافة موظف",
+    "Employee Name" : "اسم الموظف",
+    "Enter Employee Name" : "ادخل اسم الموظف",
+    "Employee Phone" : "رقم جوال الموظف",
+    "Enter Employee Phone" : "ادخل رقم جوال الموظف",
+    "Employee Permissions" : "صلاحيات الموظف",
+    "About App" : "عن التطبيق",
+    "Common Questions" : "أسئلة شائعة",
+    "Terms and Conditions" : "الشروط والأحكام",
+    "Privacy Policy" : "سياسة الخصوصية",
+    "Week Days" : "أيام الأسبوع",
+    "Periods Times" : "الفترات الزمنية",
+    "AM" : "صباحا",
+    "PM" : "مساءا",
+    "Change Phone Number" : "تغيير رقم الجوال",
+    "Profile Settings" : "إعدادات الملف الشخصي",
+    "Arabic" : "العربية",
+    "English" : "الانجليزية",
+    "Enter Current Password" : "ادخل كلمة المرور الحالية",
+    "Enter New Password" : "ادخل كلمة المرور الجديدة",
+    "noTripRequestsTitle #$ Sorry there are no trip requests now" : "عفوا, لايوجد طلبات رحلات حالية",
+    "noTripRequestsBody #$ When you have new trip requests they will appear here" : "عندما يكون لديك طلبات رحلات جديدة سوف تظهر هنا",
+    "doYouWantToLogout #$ Do you want to logout?" : "هل تريد تسجيل الخروج؟",
+    "back" : "تراجع",
+    "Select App Language" : "اختر لغة التطبيق",
+    "You Cannot Recover Your Account Again" : "لا يمكنك استرجاع حسابك مرة أخرى",
+    "Price For Egyptian" : "السعر المصري",
+    "Price For Gulf" : "السعر الخليجي",
+    "Price For European" : "السعر الاوروبي",
+    "Enabled" : "مفعل",
+    "UnEnabled" : "غير مفعل",
+    "Your Orders has been sent successfully" : "تم ارسال طلبك بنجاح",
+    "Attach Company Logo (optional)" : "أرفق شعار الشركة (إختياري)",
+    "Attach Commercial Registration (optional)" : "أرفق صورة السجل التجاري (إختياري)",
+    "Attach Company Images (optional)" : "أرفق صور الشركة (إختياري)",
+    "Determine Company Location (optional)" : "حدد موقع الشركة (إختياري)",
+    "Please Enter Your Data" : "برجاء إدخال بياناتك المسجلة لدينا",
+    "noTripsTitle #$ Sorry there are no trips now" : "عفوا, لايوجد لديك رحلات",
+    "noTripsBody #$ When you have new trips they will appear here" : "عندما يكون لديك رحلات سوف تظهر هنا",
+    "Add New Trip" : "اضافة رحلة جديدة",
+    "Approved" : "رحلة مقبولة",
+    "Cancel Validity Period #$ Period" : "مدة سماح الإلغاء",
+    "Refund Percentage" : "نسبة المسترد",
+    "Cancel Rules" : "شروط الإلغاء",
+    "Enter Password" : "أدخل كلمة المرور",
+    "Ship type" : "نوع السفينة",
+    "Please enter ship type" : "من فضلك ادخل نوع السفينة",
+    "Edit Trip" : "تعديل الرحلة",
+    "Receive Trip" : "استقبال الرحلة",
+    "Do you want to disable the employee?" : "هل تريد تعطيل الموظف؟",
+    "You can re-disable the employee after activation" : "يمكنك إعادة تعطيل الموظف بعد التفعيل",
+    "Do you want to enable the employee?" : "هل تريد تفعيل الموظف؟",
+    "You can re-enable the employee after deactivation" : "يمكنك إعادة تفعيل الموظف بعد التعطيل",
+    "Do you want to delete the employee?" : "هل تريد حذف الموظف؟",
+    "You cannot restore an employee after deletion" : "لا يمكنك استرجاع الموظف بعد الحذف",
+    "New Phone Number" : "رقم الجوال الجديد",
+    "Reservation Details" : "تفاصيل الطلب",
+    "Client Data" : "بيانات العميل",
+    "Reservation Data" : "بيانات الطلب",
+    "Reservation Summary" : "ملخص الطلب",
+    "Reservation Date" : "تاريخ الطلب",
+    "Reservation Time" : "وقت الطلب",
+    "Status" : "الحالة",
+    "Total Trip Amount" : "إجمالي سعر الرحلة",
+    "Total Delivery Price" : "إجمالي التوصيل",
+    "Total Additions Price" : "إجمالي الإضافات",
+    "Discount Price" : "قيمة الخصم",
+    "Total Price Due" : "المستحق",
+    "main_category_section #$ Main Category" : "القسم الرئيسي",
+    "sub_category_section #$ Sub Category" : "القسم الفرعي",
+    "Complaint": "شكوى",
+    "Suggestion": "اقتراح",
+    "Explanation": "استفسار",
+    "Other": "أخرى",
+    "Message text" : "نص الرسالة",
+    "Message type" : "نوع الرسالة",
+    "Enter Message" : "ادخل الرسالة",
+    "Enter Message Text" : "ادخل نص الرسالة",
+    "Enter Message Type" : "حدد نوع الرسالة",
+    "Enter Name" : "ادخل الاسم",
+    "Enter Phone Number" : "ادخل رقم الجوال",
+    "neww" : "جديدة",
+    "finished" : "مكتملة",
+    "current" : "حالية",
+    "cancelled" : "ملغي",
+    "Coming" : "قادمة",
+    "Ended" : "منتهي",
+    "rejected_status #$ Rejected" : "مرفوض",
+    "Royal Seacope" :  "رويال سيكوب",
+    "Safari" : "سفاري",
+    "Orange Baye" : "جزيرة أورانج",
+    "Diving" : "غوص",
+    "Add Another Period" : "اضف فتره اخرى",
+    "Facilities of the trip" : "مرافق الرحلة",
+    "Change Location" : "تغيير الموقع",
+    "Ship Specifications" : "خصائص السفينة",
+    "Add Unfounded Type" : "اضف نوع غير موجود",
+    "Select Ship Type" : "اختر نوع السفينة",
+    "Add Unfounded Rule" : "اضف قاعدة غير موجودة",
+    "Add Unfounded Prohibition" : "اضف محظور غير موجود",
+    "Enter Prohibition Text Here" : "ادخل نص المحظور هنا",
+    "Enter Rule Text Here" : "ادخل نص القاعدة هنا",
+    "Select Additions" : "اختر الاضافات",
+    "Addition Price" : "سعر الاضافة",
+    "Enter Addition Price" : "ادخل سعر الاضافة",
+    "Add Unfounded Addition" : "اضف اضافة غير موجودة",
+    "Enter Addition Name" : "ادخل اسم الاضافة",
+    "Select Properties" : "اختر الخصائص",
+    "Add Unfounded Property" : "اضف خاصية غير موجودة",
+    "Enter Property Name" : "ادخل اسم الخاصية",
+    "Enter Count" : "ادخل العدد",
+    "Select Trip Facilities" : "اختر مرافق الرحلة",
+    "Add Unfounded Facility" : "اضف مرفق غير موجود",
+    "Activity Number" : "نشاط رقم",
+    "Enter Time" : "ادخل الوقت",
+    "Enter Activity Description 25 Letter" : "ادخل وصف النشاط 25 حرف",
+    "Trip Activity" : "نشاط الرحلة",
+    "Edit Trip Activity" : "تعديل نشاط الرحلة",
+    "noNotificationsTitle #$ Sorry there are no notifications now" : "عفوا, لايوجد إشعارات حالية",
+    "noNotificationsBody #$ When you have new notifications they will appear here" : "عندما يكون لديك إشعارات جديدة سوف تظهر هنا",
+    "selected items" : "من العناصر مختارة",
+    "Enter Ship Type" : "ادخل نوع السفينة",
+    "Property Name" : "اسم الخاصية",
+    "Enter Facility Name" : "ادخل اسم المرفق",
+    "Add Unfounded Cancel Privacy" : "اضف شرط إلغاء غير موجود",
+    "Select Trip Additions" : "اختر اضافات الرحلة",
+    "Person" : "أفراد",
+    "Enable Trip" : "تفعيل الرحلة",
+    "Delete Trip" : "حذف الرحلة",
+    "Are You Want To Delete This Activity" : "هل تريد حذف هذا النشاط؟",
+    "You Cannot Undo This Action" : "لايمكنك إستعادة النشاط بعد الحذف",
+    "Undo" : "تراجع",
+    "pressBackAgainToExit #$ Press again to exit app" : "اضغط مرة أخرى للخروج من التطبيق",
+    "short #$ Short" : "قصيرة",
+    "medium #$ Medium" : "متوسطة",
+    "long #$ Long" : "طويلة",
+    "Choose Icon" : "اختر الأيقونة",
+    "Edit Personal Data" : "تعديل البيانات الشخصية",
+    "Select Employee Permissions" : "حدد صلاحيات الموظف",
+    "Edit Employee" : "تعديل الموظف",
+    "Your request has been sent to the administration" : "تم إرسال طلبك إلى الإدارة",
+    "Your request will be reviewed in the shortest possible time" : "سيتم مراجعة طلبك في أقرب وقت",
+    "Has been sent to the administration" : "تم الإرسال إلى الإدارة",
+    "Will be reviewed in the shortest possible time" : "سيتم المراجعة في أقرب وقت",
+    "You Must Complete Your Profile To Add Trip" : "يجب إكمال بيانات الملف الشخصي كاملة حتي تتمكن من إضافة الرحلة",
+    "change_phone_success #$ Your phone number has been changed successfully" : "تم تغيير رقم جوالك بنجاح🎉",
+    "change_phone_success_body #$ We wish you a great experience through our app" : "نتمنى لك تجربة مميزة من خلال تطبيقنا",
+    "Choose Location" : "اختر الموقع",
+    "Enter Value Between 2 and 6" : "ادخل قيمة بين 2 و 6",
+    "Cancellation Period Must Be LessT han Previous" : "فترة الإلغاء يجب أن تكون أقل من السابقة",
+    "Percentage Must Be Less Than Previous" : "النسبة يجب أن تكون أقل من السابقة",
+    "Value Already Exists" : "القيمة موجودة بالفعل",
+    "Read More" : "اقرأ المزيد",
+    "Read Less" : "اقرأ أقل",
+    "Cannot be more than 100" : "لا يمكن أن يكون أكثر من 100"
+}
