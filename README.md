@@ -245,7 +245,7 @@ The generator follows these naming conventions:
 The generator includes a file watcher that automatically regenerates files when the master language file changes. Simply run the command once, and it will continue watching for changes:
 
 ```bash
-dart run loc_generator:main --lang_path assets/lang/lang.json --ar_path assets/lang/ar.json --en_path assets/en.json
+dart run loc_generator:main --lang_path assets/lang/lang.json --ar_path assets/lang/ar.json --en_path assets/lang/en.json
 ```
 
 You'll see output like:
